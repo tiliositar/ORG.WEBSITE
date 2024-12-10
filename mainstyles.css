@@ -1,0 +1,16 @@
+
+/* Custom Styles for School Website */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: #007bff;
+    color: #fff;
+    padding: 100px 0;
+}
+
+footer {
+    background: #343a40;
+    color: #fff;
+}
